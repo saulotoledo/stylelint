@@ -1,3 +1,7 @@
+# HEAD
+
+-   Fixed: Remove files with syntax errors from the cache ([#3258](https://github.com/stylelint/stylelint/pull/3258)).
+
 # 9.2.0
 
 -   Added: `selector-max-pseudo-class` rule ([#3195](https://github.com/stylelint/stylelint/pull/3195)).
